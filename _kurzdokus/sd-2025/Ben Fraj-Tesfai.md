@@ -13,9 +13,9 @@ gallery:
 styleguide: Ben Fraj-Tesfai-styleguide
 ---
 
-Im Jahr 2025 arbeiten die Teilnehmer am  Modul Screendesign an dem Projekt: ,,Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach’’. Dabei ist das Ziel, ein Konzept zu erstellen, dass für möglichst viele und unterschiedliche potenzielle Nutzer verständlicher und angenehmer zu gestalten. Vor allem wird auf ein geeignetes Modell für Studierende, Lehrende und Mitarbeitende hingearbeitet.  
+Im Jahr 2025 arbeiten die Teilnehmer am  Modul Screendesign an dem Projekt: ,,Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach’’. Dabei ist das Ziel, ein Konzept zu erstellen, dass für möglichst viele und unterschiedliche potenzielle Nutzer verständlicher und angenehmer ist. Vor allem wird auf ein geeignetes Modell für Studierende, Lehrende und Mitarbeitende hingearbeitet.  
 
-In dieser Planung wird, sowie bei der derzeitigen Webseite für die Veranstaltungsübersicht zunächst ein Searchtool angeboten und ein Filter, der genutzt wird, um den passenden Stundenplan zu finden. Des Weiteren wird darunter ermöglicht, sich einen eigenen Stundenplan zu erstellen, eine Übersicht von allen Veranstaltungen zu erhalten und sich über die Dozenten der Th-Köln zu informieren. 
+In dieser Planung wird, sowie bei der derzeitigen Webseite für die Veranstaltungsübersicht zunächst ein Searchtool angeboten und ein Filter, der genutzt wird, um den passenden Stundenplan zu finden.  Des Weiteren wird darunter ermöglicht, sich einen eigenen Stundenplan zu erstellen, eine Übersicht von allen Veranstaltungen zu erhalten und sich über die Dozenten der Th-Köln zu informieren. 
 
 Indem sich Nutzer anmelden, haben sie direkt Zugriff auf einen bisher personalisierten Stundenplan oder als wissenschaftlicher Mitarbeiter erhalten sie Zugriff auf Funktionen, die nur für sie erstellt wurden. 
 
