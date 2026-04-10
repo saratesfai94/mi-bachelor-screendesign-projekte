@@ -1,15 +1,31 @@
 ---
-title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
+title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
-    - Enrico Caltabiano
-    - Domenic Wolf
-teaserimage: Caltabiano-Wolf-teaser.webp
+    - Amina Ben Fraj
+    - Mikal Sara Tesfai
+teaserimage: Ben Fraj-Tesfai-teaser
 gallery:
-    - Caltabiano-Wolf-bild1.webp
-    - Caltabiano-Wolf-bild2.webp
-    - Caltabiano-Wolf-bild3.webp
-styleguide: Caltabiano-Wolf-Styleguide-Patternlab.svg
+    - Ben Fraj-Tesfai-bild1
+    - Ben Fraj-Tesfai-bild2
+    - Ben Fraj-Tesfai-bild3
+    - Ben Fraj-Tesfai-bild4
+    - Ben Fraj-Tesfai-bild5
+styleguide: Ben Fraj-Tesfai-styleguide
 ---
 
 
-Hiermit präsentieren wir ihnen unser Ergebnis zum Projekt: „Funktionserweiterung im Cranach Digital Archive“. Der Arbeitsauftrag, der uns erteilt wurde, beinhaltet mehrere Funktionserweiterungen der Cranach Digital Archive Website. Um dies zu verwirklichen verwendeten wir das Farbschema der Webseite, sowie die Renard-Serie zur Bestimmung der Abstände. Zunächst galt es die bestehende Webseite für diese Vorgänge zu analysieren und ein passendes Konzept zu entwickeln. Hierfür iterierten wir verschiedene Wireframes und passten somit die Navigationsbar an, worauf wir diese um den Punkt „Sammlungen“, sowie die Implementierung des filter Buttons erweiterten.  Darauffolgend wurden die angezeigten Bildobjekte ihren Maßen und Positionen abgeändert, um eine übersichtlichere Darstellung zu gewährleisten. Um den Benutzer mit kleinstmöglichem Aufwand die größtmöglichen Informationen zu liefern, wurde Desktop-konform, eine hover Funktion einzufügen. Damit der Nutzer nun die Möglichkeit besitzt, mehrere Objekte in einer Sammlung zusammenzufassen, wurden nun entsprechende Icons illustriert und für den Nutzer leicht zugänglich platziert. Der Nutzer hat daraufhin die Möglichkeit seine Sammlung zu verwalten. Zu diesem Zweck wurde ein Bildschirmoverlay designt welches ihm alle Optionen hierzu anzeigt. Zuletzt erhält der Nutzer einen ersichtlichen Indikator als Bestätigung zur Abspeicherung seines Objekts. Unter der Kategorie Sammlung wird dem Nutzer nun seine angelegten Sammlungen angezeigt, wobei hier für die Übersicht nicht nur der Name des jeweiligen Ordners angezeigt wird, sondern ebenso die Letzen drei hinzugefügten Objekte. Innerhalb einer Sammlung besitzt nun der Nutzer die Möglichkeit die Objekte zu sortieren. Dies wird mithilfe eines Indikators im drop down Menü ermöglicht. Um nun weitere Funktionserweiterungen zu realisieren, wurde innerhalb der Sammlung eine ausklappbare Menü-bar erstellt, um den Nutzer verschiedene Optionen zum Weiterarbeiten zu bieten. Möchte der Nutzer nun die „Vergleich“ Optionen auswählen, besitzt der die Möglichkeit mehrere Objekte seiner Sammlung auszuwählen und dann den Vergleich zu starten. Zu diesem Punkt wurden von uns Auswahlindikatoren erstellt, welche dem Nutzer optisch einwandfrei darstellen welche Objekte er ausgewählt hat. Ebenso wurde der Button zum Starten des Vergleiches im Optionsmenü verankert. Nachdem der Nutzer nun den Vergleich startet, werden ihm die ausgewählten Objekte sowie eine „Tool-bar“ angezeigt. Um den Blick des Nutzers nun ausschließlich auf die wesentlichen Bestandteile seiner Arbeit zu leiten, wurden dementsprechend die Größen seiner ausgewählten Objekte hervorgehoben. Zusätzlich wurde darauf geachtet, dass die Tool-bar sowie weitere Indikatoren wie z.B. „Beenden“ nicht zu sehr in den Fokus rücken. Mit Hilfe der Tool-bar stehen dem Nutzer folgende Vergleichstools zur Verfügung: die Lock Funktion, die Move Funktion, die Zoom Funktion und die Panning Funktion. Unter anderem besteht durchgehend die Möglichkeit die Objekte nach Belieben zu skalieren. Da die Panning Funktion besonders durch die Auswahl von ausschnitten brilliert, wurde hierzu ein passendes Grid designt, welches den Nutzer ermöglicht präzise ausschnitte auszuwählen. Zu guter Letzt wurde die Stapelansicht hinzugefügt, welche dem Nutzer ermöglicht ein Objekt mit einer Reihe anderer Objekte zu vergleichen. Hierfür wurde ein neues UI-Element designt, dieses zeigt das nachfolgende Objekt an, kann mithilfe von Navigationsbuttons gesteuert werden und zeigt mittels nummerischer anzeige die Objekten Anzahl an. Somit wurden nun alle in Auftrag gegebenen Funktionen von uns designt und implementiert
+Im Jahr 2025 arbeiten die Teilnehmer am  Modul Screendesign an dem Projekt: ,,Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach’’. Dabei ist das Ziel, ein Konzept zu erstellen, dass für möglichst viele und unterschiedliche potenzielle Nutzer verständlicher und angenehmer zu gestalten. Vor allem wird auf ein geeignetes Modell für Studierende, Lehrende und Mitarbeitende hingearbeitet.  
+
+In dieser Planung wird, sowie bei der derzeitigen Webseite für die Veranstaltungsübersicht zunächst ein Searchtool angeboten und ein Filter, der genutzt wird, um den passenden Stundenplan zu finden. Des Weiteren wird darunter ermöglicht, sich einen eigenen Stundenplan zu erstellen, eine Übersicht von allen Veranstaltungen zu erhalten und sich über die Dozenten der Th-Köln zu informieren. 
+
+Indem sich Nutzer anmelden, haben sie direkt Zugriff auf einen bisher personalisierten Stundenplan oder als wissenschaftlicher Mitarbeiter erhalten sie Zugriff auf Funktionen, die nur für sie erstellt wurden. 
+
+Bei den Stundenplänen können angemeldete Nutzer neben den Zugriff auf Nachrichten oben rechts zum Menu gelangen. Über die linke Sidebar gelangen Nutzer ggf. zum personalisierten Stundenplan, Modulbeschreibungen, Räumen und Prüfungen. Darunter befindet sich eine Farblegende, für den Stundenplan und der Nutzericon, durch den sich Personen die Nutzerinformationen ansehen können. Der Filtericon auf der rechten oberen Seite ermöglicht es Nutzern, ohne zurück auf die Webseite zu gehen einen neuen geänderten Stundenplan zu sehen. Mit der Registerkartenleiste wählen sie einen Stundenplan für einen Tag, einer Woche oder einen Monat. 
+
+Dieses Konzept stellt ein simples Design dar, in dem unnötige Farben und ablenkende Elemente vermieden werden. Dabei erinnern die dominantesten Farben an die derzeitige Webseite für die Veranstaltungsübersicht. Abgesehen von Ikonen beschränkt sich der Gebrauch von Farben auf ausschließlich essenziellen Funktionen. Zum Beispiel um wichtige Aspekte hervorzuheben oder um Zusammenhänge zu erläutern. Auf der Login-Seite wird der Anmeldebutton hervorgehoben und die verschiedenen Veranstaltungstypen in den Stundenplänen werden mit den Farben unterschieden. Auf der Sidebar wird mithilfe von Farben hervorgehoben, wo sich der Nutzer befindet. 
+
+Unter anderem wird damit die Bedienung für Menschen einfacher gestaltet, die wenig Erfahrung mit Technologien haben. Dazu kommen die simplen Funktionen, die mithilfe von den Ikonen eindeutig zu verstehen sind, wie die Sidebar, von der man anhand der Ikone erkennt, dass sie ins Sichtfeld gezogen werden kann. Ein weiteres Beispiel bilden die Textfelder in den Stundenplänen, die optisch abgebrochen sind und damit darauf hinweisen, dass hier runtergescrollt werden kann. 
+
+Um möglichst keine Person bei der Nutzung dieses Konzepts einzuschränken, werden die Buttons möglichst groß skaliert und die Abstände zwischen den Inhalten nicht unnötig klein gehalten. Somit wird es Nutzern, die gelegentlich Probleme damit haben, kleine Flächen auf einem Handy zu betätigen, vereinfacht dieses Design zu nutzen. 
+
+In dieser Planung wird es Personen ermöglicht, sich innerhalb eines Stundenplans über Module zu informieren, die zeitgleich stattfinden. Dies ist besonders nutzvoll für potenzielle zukünftige Studenten, die einen Überblick von den Modulen haben wollen und planen möchten, für welche Module sie sich anmelden wollen. 
