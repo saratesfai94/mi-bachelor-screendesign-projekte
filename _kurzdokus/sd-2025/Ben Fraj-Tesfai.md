@@ -3,7 +3,7 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Amina Ben Fraj
     - Mikal Sara Tesfai
-teaserimage: Ben Fraj-Tesfai-teaser
+teaserimage: BenFraj-Tesfai-teaser.png
 gallery:
     - BenFraj-Tesfai-Startpage-1.png
     - BenFraj-Tesfai-Loginpage-2.png
