@@ -5,12 +5,27 @@ people:
     - Mikal Sara Tesfai
 teaserimage: Ben Fraj-Tesfai-teaser
 gallery:
-    - Ben Fraj-Tesfai-bild1
-    - Ben Fraj-Tesfai-bild2
-    - Ben Fraj-Tesfai-bild3
-    - Ben Fraj-Tesfai-bild4
-    - Ben Fraj-Tesfai-bild5
-styleguide: Ben Fraj-Tesfai-styleguide
+    - BenFraj-Tesfai-Startpage-1.png
+    - BenFraj-Tesfai-Loginpage-2.png
+    - BenFraj-Tesfai-Wochenansicht-3.png
+    - BenFraj-Tesfai-Tagesansicht-4.png
+    - BenFraj-Tesfai-Sidebar-5.png
+    - BenFraj-Tesfai-MeinPlan-6.png
+    - BenFraj-Tesfai-Filter-7.png
+    - BenFraj-Tesfai-Überschneidung-8.png
+    - BenFraj-Tesfai-Menü-9.png
+    - BenFraj-Tesfai-Modulinfo-10.png
+    - BenFraj-Tesfai-Raumbuchung-11.png
+    - BenFraj-Tesfai-Übersicht-12.png
+    - BenFraj-Tesfai-Studiengangplan-13.png
+    - BenFraj-Tesfai-Tagdesktop-14.png
+    - BenFraj-Tesfai-Fachbeschreibung-15.png
+    - BenFraj-Tesfai-Zeitüberschneidung-16.png
+    - BenFraj-Tesfai-meinPlan-17.png
+    - BenFraj-Tesfai-LogedinMenü-18.png
+    - BenFraj-Tesfai-ProfileSettings-19.png
+    - BenFraj-Tesfai-FilterStartpage-20.png
+styleguide: 
 ---
 
 Im Jahr 2025 arbeiten die Teilnehmer am Modul Screendesign an dem Projekt: ,,Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach’’. Dabei ist das Ziel, ein Konzept zu erstellen, das für möglichst viele und unterschiedliche potenzielle Nutzer verständlicher und angenehmer ist. Vor allem wird auf ein geeignetes Modell für Studierende, Lehrende und Mitarbeitende hingearbeitet.  
